@@ -1,8 +1,10 @@
+# EJERCICIO 1 
 # CÓDIGO CON ERROR
 original_data = [10, 20, 30]
 
 # El estudiante intenta copiar los datos
 copy_data = original_data.copy()
+#
 copy_data.append(40)
 
 print(f"Original: {original_data}")
